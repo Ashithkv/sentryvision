@@ -1,6 +1,6 @@
 # SentryVision
 
-A small, fully working real-time object detection dashboard. Point a
+Fully working real-time object detection dashboard. Point a
 webcam at the backend, watch YOLOv8 draw boxes around whatever it
 sees, define a rectangular "region of interest" (ROI) on the video,
 and get an alert the moment a chosen object class (person, car,
